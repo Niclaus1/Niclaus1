@@ -42,15 +42,6 @@ I'm a Computer Science student and tech enthusiast passionate about automation, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niclaus1&show_icons=true&theme=radical" alt="Niclaus1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niclaus1&layout=compact&theme=radical" alt="Niclaus1" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
