@@ -47,8 +47,4 @@ I'm a Computer Science student and tech enthusiast passionate about automation, 
 <p align="left">
 <a href="https://www.linkedin.com/in/niclaus-rendon/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niclaus-rendon" height="30" width="40" />
-</a>
-<a href="mailto:rendonniclaus111@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rendonniclaus111@gmail.com" height="30" width="40" />
-</a>
 </p>
